@@ -1,16 +1,16 @@
 # coding-exercises
 
-1. Project Title
-   My Coding Exercises
+1. DnD Character Generator
    
-2. Short description
-   This is were I try some coding out :) Pratice makes perfect
-   
-4. Purpose
-   This repo is supposed to serve as a baseline for some practice-files.
+3. Short description
+
+This is a small generator that spits out a randomized dnd 5e Character.
+
+5. Purpose
+The project can print a randomized dnd character onto your terminal output. It was created as practice for my coding :)
    
 6. Installation
-  Only Java SDK needed.
+  Only Java SDK needed. Thw races.txt holds all the races that can be generated.
 
 7. Authors / Contributors
     Jessica Kreuzberger
